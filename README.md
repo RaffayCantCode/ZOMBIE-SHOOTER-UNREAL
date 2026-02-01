@@ -1,21 +1,35 @@
-🎮 Game Features & Overview
+🎮 Project Overview
 
-• First-person shooter survival game developed in Unreal Engine
+Nakhut un Totent is a first-person zombie survival shooter developed in Unreal Engine, set in a futuristic facility where a failed experiment has unleashed hostile creatures. The player is sent in to survive, secure the area, and eliminate the threat.
 
-• Set in a futuristic facility affected by a failed experiment
+⚙️ Core Mechanics
 
-• Wave-based combat against zombie-type enemies that chase and attack the player
+• First-person shooting and movement
 
-• Player can choose between multiple weapons, each with different combat styles
+• Simple enemy AI that chases and attacks the player
 
-• Progression system based on clearing enemies and completing objectives
+• Objective-based progression using interactable elements
 
-• Interactive elements such as gates, trigger zones, and pressure plates
+🗺️ Map Design
 
-• Crystal-based objective system used to unlock new areas, including a basement section
+• Single handcrafted map with multiple areas
 
-• Final encounter features a boss enemy that concludes the game
+• Locked sections that open as objectives are completed
 
-• Designed with a focus on simple mechanics, clear objectives, and fast-paced gameplay
+• Includes an underground basement area for progression
 
-• Built as a team project, covering level design, enemy AI, UI/menu systems, and combat mechanics
+🔁 Rounds / Progression
+
+• Three structured rounds
+
+• Each round unlocks new areas and increases difficulty
+
+• Final round leads to a boss encounter
+
+🔫 Weapons
+
+• Three weapons available for player selection
+
+• Each weapon offers a different combat feel
+
+• Weapons support fast-paced, close-combat gameplay
